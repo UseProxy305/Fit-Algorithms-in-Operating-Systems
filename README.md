@@ -65,7 +65,7 @@ Run the main code in that command line with a python (version should be higher t
     <img width="100%" src="https://user-images.githubusercontent.com/61635625/187537897-ec8da98c-90d3-4c6a-b124-44fd19d1b191.gif">
 </p>
 
-  6)Quit the Program
+### 6)Quit the Program
   
   &emsp;&emsp;It provides users to quit the program.
 
